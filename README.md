@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Flask Starter Web Development
 
 - You should have Python Environment before install flask-starter app
@@ -50,3 +51,7 @@ $ python3 run.py
 * Debugger is active!
 * Debugger PIN: 118-513-369
 ```
+=======
+# DemoFlask
+Demo Flask with Git
+>>>>>>> e1db709c36ba8d93497d7ab7bae0e357664ef690
